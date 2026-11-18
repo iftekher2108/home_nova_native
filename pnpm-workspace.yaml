@@ -1,0 +1,3 @@
+minimumReleaseAgeExclude:
+  - '@expo/schema-utils@58.0.2'
+  - expo-router@58.0.23
